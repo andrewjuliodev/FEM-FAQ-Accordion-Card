@@ -4,7 +4,6 @@
 // answer           content
 
 const accordion = document.getElementsByClassName("container");
-const container = document.querySelectorAll(".container");
 
 function faq() {}
 
