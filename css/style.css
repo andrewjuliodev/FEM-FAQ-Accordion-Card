@@ -91,10 +91,6 @@ main {
   border-bottom: 1px solid hsl(240, 5%, 91%);
 }
 
-.three {
-  /*height: 110px;*/
-}
-
 .questionRow {
   display: grid;
   grid-template-columns: 300px 50px;
