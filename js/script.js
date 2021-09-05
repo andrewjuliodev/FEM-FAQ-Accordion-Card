@@ -5,8 +5,6 @@
 
 const accordion = document.getElementsByClassName("container");
 
-function faq() {}
-
 for (let i = 1; i < accordion.length + 1; i++) {
   document.querySelector(`.row${i}`).addEventListener("click", function () {
     if (document.querySelector(`.cont${i}`).style.height === "55px") {
