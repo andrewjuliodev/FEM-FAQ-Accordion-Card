@@ -1,8 +1,3 @@
-// accordion        accordion
-// container        contentBx
-// questionRow      label
-// answer           content
-
 const accordion = document.getElementsByClassName("container");
 
 for (let i = 1; i < accordion.length + 1; i++) {
