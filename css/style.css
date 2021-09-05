@@ -101,6 +101,7 @@ main {
   grid-template-rows: 50px;
   color: hsl(237, 12%, 33%);
   padding-top: 4px;
+  margin-bottom: -20px;
 }
 
 .question:hover {
